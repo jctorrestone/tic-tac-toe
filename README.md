@@ -7,7 +7,7 @@ This projects tries to recreate the game tic-tac-toe using react.
 2. Make sure you are running a local testing server. I recommend http-server.
 3. Open the index.html y a web browser and you will be able to test the project.
 
-##Roadmap of Future Improvements
+## Roadmap of Future Improvements
 - Don't let the user choose the same square again. This can be done by checking the state of the variable filled, if it is true, then just return.
 - Restart the game when it is over. Once the function checkForWinner has found the winner, ask the user if they want to play again, if true, restart the game.
 
